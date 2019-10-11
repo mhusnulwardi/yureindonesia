@@ -1,0 +1,43 @@
+.navbar-fixed,
+.sidebar,
+.about,
+.team,
+.page-footer,
+.footer-copyright,
+.partner-bisnis,
+.penawaran,
+.testimoni,
+.hubungi {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.slider h3,
+.slider h5 {
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+    font-family: 'Quicksand', sans-serif;
+}
+
+section {
+    padding: 20px 0;
+}
+
+.parallax-container {
+    height: 470px;
+}
+
+.logo-android,
+.logo-iphone {
+    height: 70px;
+}
+
+.medsos {
+    height: 30px;
+}
+
+.avatar {
+    height: 40px;
+}
+
+.img-team {
+    height: 240px;
+}
