@@ -1,5 +1,6 @@
 .navbar-fixed,
 .sidebar,
+.sidenav,
 .about,
 .team,
 .page-footer,
@@ -21,10 +22,6 @@ section {
     padding: 20px 0;
 }
 
-.parallax-container {
-    height: 470px;
-}
-
 .logo-android,
 .logo-iphone {
     height: 70px;
@@ -39,5 +36,20 @@ section {
 }
 
 .img-team {
+    height: 240px;
+}
+
+.student,
+.investor {
+    height: 240px;
+    position: center;
+}
+
+.logo-object {
+    height: 200px;
+    padding-top: 70px;
+}
+
+.gambar-investasi {
     height: 240px;
 }
