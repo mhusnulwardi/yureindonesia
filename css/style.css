@@ -8,7 +8,8 @@
 .partner-bisnis,
 .penawaran,
 .testimoni,
-.hubungi {
+.hubungi,
+.komunitas {
     font-family: 'Quicksand', sans-serif;
 }
 
@@ -52,4 +53,8 @@ section {
 
 .gambar-investasi {
     height: 240px;
+}
+
+.img-komunitas {
+    height: 120px;
 }
